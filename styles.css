@@ -80,6 +80,7 @@ p{
     margin: 0;
 }
 a{
+    margin: 4px;
     background: #A9AF7E;
     background-image: -webkit-linear-gradient(top, #A9AF7E, #5f6346);
     background-image: -moz-linear-gradient(top, #A9AF7E, #5f6346);
@@ -90,8 +91,8 @@ a{
     -moz-border-radius: 28;
     border-radius: 28px;
     color: #e6e5a3;
-    font-size: 16px;
-    padding: 7px 15px 7px 15px;
+    font-size: 13px;
+    padding: 3px 7px 3px 7px;
     text-decoration: none;
 }
 a:hover{
